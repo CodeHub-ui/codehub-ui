@@ -23,8 +23,3 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codehub-ui&" alt="codehub-ui" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codehub-ui&show_icons=true&locale=en&layout=compact" alt="codehub-ui" /></p>
-
-
-
